@@ -1,0 +1,10 @@
+10.215.26.229
+en pw:vnpro#321
+Username:vnpro
+PW:vnpro#123
+public 
+private
+CSR3
+show platform software yang-management process
+ssh vnpro@10.215.26.229 -p 830 -s netconf
+
